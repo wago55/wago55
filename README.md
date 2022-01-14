@@ -7,7 +7,7 @@
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wago55&layout=compact&theme=tokyonight)](https://github.com/wago55/)
 
 <!-- トロフィー-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=wago55&theme=onedark)](https://github.com/wago55/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wago55&theme=tokyonight)](https://github.com/wago55/github-profile-trophy)
 
 
 <!--
