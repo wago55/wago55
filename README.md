@@ -8,7 +8,7 @@
   <!-- ソースコード統計 -->
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wago55&layout=compact&theme=tokyonight)](https://github.com/wago55/" />
   <!-- リポジトリステータス -->
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?  username=wago55&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/wago55/" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=wago55&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
 <!-- リポジトリステータス -->
