@@ -1,7 +1,7 @@
 ### Hi I'm wago55 👋
 
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ユーザ名&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/wago55/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=wago55&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/wago55/)
 
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wago55&layout=compact&theme=tokyonight)](https://github.com/wago55/)
