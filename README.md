@@ -6,6 +6,10 @@
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wago55&layout=compact&theme=tokyonight)](https://github.com/wago55/)
 
+<!-- トロフィー-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=wago55&theme=onedark)](https://github.com/wago55/github-profile-trophy)
+
+
 <!--
 **wago55/wago55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
